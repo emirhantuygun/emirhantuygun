@@ -3,7 +3,7 @@
 
 - I’m currently learning **Blender**
 
-- Here's my Play Store account [https://play.google.com/store/apps/dev?id=8853955325713753955)
+- Here's my Play Store account: https://play.google.com/store/apps/dev?id=8853955325713753955
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
