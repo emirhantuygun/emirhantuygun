@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Emirhan</h1>
 <h3 align="center">I'm a software engineering student.</h3>
 
-- I’m currently learning **Blender**
+- I’m currently learning **Blender** and **JavaScript**
 
 - Here's my Play Store account [https://play.google.com/store/apps/details?id=com.SchismStudios.TheSpaceship](https://play.google.com/store/apps/details?id=com.SchismStudios.TheSpaceship)
 
