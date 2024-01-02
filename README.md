@@ -5,7 +5,7 @@
 
 <h3 align="left">LinkedIn:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/emirhan-tuygun-756b49281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirhan-tuygun-756b49281" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/emirhantuygun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emirhan-tuygun-756b49281" height="30" width="40" /></a>
 </p>
 
 <!-- COMMENTED
